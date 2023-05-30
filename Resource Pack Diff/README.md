@@ -1,4 +1,4 @@
-# Resource Pack Diff: Your Comparison Buddy
+# Resource Pack Diff
 ---
 Welcome! Resource Pack Diff is a simple tool that helps you extract the differences between two versions of Minecraft resource packs. or any folders really.
 
